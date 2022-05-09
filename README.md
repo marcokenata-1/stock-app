@@ -1,6 +1,12 @@
 # stock_app
 
-A stock application
+A stock application using Alphavantage Stock APIs, Firebase Authentication, Firebase Cloud Firestore, and Algolia APIs.
+
+![Sign In](sign_in.png)
+![Sign Up](sign_up.png)
+![Stock Detail](stock_detail.png)
+![Stock Search](stock_search.png)
+![Main Screen](main_screen.png)
 
 ## Getting Started
 
